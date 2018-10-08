@@ -227,6 +227,11 @@ img:hover {
      float: none;
      padding: 5px;
     }
+   
+   #map_canvas {
+     padding: 1px 1px !important; 
+   }
+   
   }
   @media screen and (max-width: 480px) {
     .logo {
